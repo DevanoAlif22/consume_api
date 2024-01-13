@@ -1,0 +1,7 @@
+Consume api dari php restfull_native
+
+catatan :
+1. authentikasinya masih statis (tidak pakai token), bisa di cek di restfull_native
+2. Sudah bisa CRUD
+3. request endpoint (alamat dari restfull data.php) untuk di CRUD
+4. pakai liblary guzzle untuk request permintaan seperti get,post,delete dan put
